@@ -13,7 +13,9 @@ public abstract class Cronometro {
    int opcion;
     int segundos=0,minutos=0,decimas=0,horas=0;
     while (horas<=24){
-    
+    while (minutos<=60){
+        
+    }
 }
     public void setOP (int opcion){
         this.opcion = opcion;
